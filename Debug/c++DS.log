@@ -1,0 +1,15 @@
+﻿  SparseGraph.cpp
+e:\vs 项目\c++ds\c++ds\sparsegraph.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs 项目\c++ds\c++ds\sparsegraph.cpp(96): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs 项目\c++ds\c++ds\sparsegraph.cpp(101): warning C4018: “>=”: 有符号/无符号不匹配
+e:\vs 项目\c++ds\c++ds\sparsegraph.cpp(112): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\vs 项目\c++ds\c++ds\shortpath.h(90): warning C4018: “<”: 有符号/无符号不匹配
+  e:\vs 项目\c++ds\c++ds\shortpath.h(87): note: 编译 类 模板 成员函数 "void ShortPath<SparseGraph>::showPath(int)" 时
+  e:\vs 项目\c++ds\c++ds\sparsegraph.cpp(138): note: 参见对正在编译的函数 模板 实例化“void ShortPath<SparseGraph>::showPath(int)”的引用
+  e:\vs 项目\c++ds\c++ds\sparsegraph.cpp(136): note: 参见对正在编译的 类 模板 实例化 "ShortPath<SparseGraph>" 的引用
+e:\vs 项目\c++ds\c++ds\path.h(81): warning C4018: “<”: 有符号/无符号不匹配
+  e:\vs 项目\c++ds\c++ds\path.h(78): note: 编译 类 模板 成员函数 "void Path<SparseGraph>::showPath(int)" 时
+  e:\vs 项目\c++ds\c++ds\sparsegraph.cpp(134): note: 参见对正在编译的函数 模板 实例化“void Path<SparseGraph>::showPath(int)”的引用
+  e:\vs 项目\c++ds\c++ds\sparsegraph.cpp(132): note: 参见对正在编译的 类 模板 实例化 "Path<SparseGraph>" 的引用
+e:\vs 项目\c++ds\c++ds\sparsegraph.cpp(98): warning C4715: “SparseGraph::adjIterator::next”: 不是所有的控件路径都返回值
+  c++DS.vcxproj -> E:\vs 项目\c++DS\Debug\c++DS.exe
